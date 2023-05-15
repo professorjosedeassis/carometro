@@ -12,7 +12,8 @@ Em produção. Acompanhe as atualizações no canal do YouTube:
 
 ## Autor
 Professor José de Assis
-
+### Slides
+[JDBC](https://professorjosedeassis.github.io/infox/)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
