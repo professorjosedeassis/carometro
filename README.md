@@ -42,7 +42,7 @@ Professor José de Assis
 
 ![app](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro2.png)
 
-3) Se tudo estiver OK (Passo 1), você pode iniciar gerando uma listagem dos alunos cadastrados (Passo 2) ou pesquisar um aluno pelo RA ou Nome (Passo 3), neste caso o aplicativo libera os botões e recursos de acordo com o resultado da pesquisa, por exemplo se não tiver um aluno cadastrado ele libera os botões para carregar foto e adicionar e se existir um aluno cadastrado ele traz todas as informações e libera os botões para editar e excluir.
+3) Se tudo estiver OK ( 1 ) você pode iniciar gerando uma listagem dos alunos cadastrados ( 2 ) ou pesquisar um aluno pelo RA ou Nome ( 3 ), neste caso o aplicativo libera os botões e recursos de acordo com o resultado da pesquisa, por exemplo se não tiver um aluno cadastrado ele libera os botões para carregar foto e adicionar e se existir um aluno cadastrado ele traz todas as informações e libera os botões para editar e excluir.
 
 ![aplicativo](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro3.png) 
 
