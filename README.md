@@ -17,17 +17,34 @@ Professor José de Assis
 
 [download xampp](https://www.apachefriends.org/)
 
-3) Iniciar os serviços Apache e MySQL no XAMPP, conforme indicado na imagem.
+### Instalação do banco
+1) Iniciar os serviços Apache e MySQL no XAMPP, conforme indicado na imagem.
 
 ![xampp start](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp1.png)
 
-4) No navegador de internet digite: **localhost/dashboard** e selecione o **phpMyAdmin** conforme indicado na imagem.
+2) No navegador de internet digite: **localhost/dashboard** e selecione no menu **phpMyAdmin** conforme indicado na imagem.
 
 ![phpmyadmin](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp2.png)
 
-5) .
-6) .
-7) 
+3) Crie um novo banco de dados de nome **dbcarometro** (sem usar acentuação) conforme indicado na imagem.
+
+![dbcarometro](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp3.png)
+
+4) Na aba SQL, copie e cole o código abaixo e execute. (Passos 1,2 e 3 indicados na imagem)
+
+`CREATE TABLE alunos (ra int PRIMARY KEY AUTO_INCREMENT,nome varchar(30) NOT NULL,foto LONGBLOB NOT NULL);`
+
+![alunos](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp4.png)
+
+### Instalação do aplicativo
+1) Em Releases faça o download do arquivo **carometro.jar**
+2) Execute e verifique no rodapé o ícone que representa o banco de dados conectado. Se estiver com erro (conforme indicado na figura) verifique o XAMPP e revise novamente os passos 1 a 4 da instalação do banco.
+
+![app](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro2.png)
+
+3) Se tudo estiver OK (Passo 1), você pode iniciar gerando um documento PDF (Passo 2) ou pesquisar um aluno pelo RA ou Nome (Passo 3), neste caso o aplicativo libera os botões e recursos de acordo com o resultado da pesquisa, por exemplo se não tiver um aluno cadastrado ele libera os botões para carregar foto e adicionar e se existir um aluno cadastrado ele traz todas as informações e liberar os botões para editar e excluir.
+
+![aplicativo](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro3.png) 
 
  
 
