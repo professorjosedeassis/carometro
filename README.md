@@ -53,8 +53,6 @@ Tecnologias que são abordadas neste tutorial:
 - IDE Eclipse
 - Java SE
 - Window Builder
-- MVC (Uso das camadas Model e View)
-- DAO (Data Access Object)
 - JDBC (Java Database Connectivity)
 - Validação de dados
 - Uso da biblioteca iTextpdf para gerar listagem de alunos com foto
