@@ -47,12 +47,25 @@ Professor José de Assis
 ![aplicativo](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro3.png) 
 
 ## Tutorial passo a passo para desenvolver este projeto do "zero"
+Tecnologias que são abordadas neste tutorial:
+- Criação de banco de dados e tabelas no MySQL
+- CRUD (Create Read Update e Delete)
+- IDE Eclipse
+- Java SE
+- Window Builder
+- MVC (Uso das camadas Model e View)
+- DAO (Data Access Object)
+- JDBC (Java Database Connectivity)
+- Validação de dados
+- Uso da biblioteca iTextpdf para gerar listagem de alunos com foto
+
+### Iniciar tutorial
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz6tSoH51QAEzpo1VsXgvIv)
-### Bibliotecas
+### Bibliotecas usadas neste projeto
 [mysql](https://dev.mysql.com/downloads/connector/j/)
 
 [itextpdf](https://github.com/itext/itextpdf)
-### Slide JDBC
+### Slide de apoio as aulas
 [JDBC](https://professorjosedeassis.github.io/infox/)
 
 ## Como apoiar os tutoriais e projetos?
