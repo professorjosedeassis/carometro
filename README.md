@@ -7,7 +7,7 @@ Carômetro é um repositório de informações de pessoas com uma foto associada
 Professor José de Assis
 ## Instruções para instalação e uso do aplicativo
 ### Pré requisitos
-1) Ter o java **versão 17** ou superior instalado, no exemplo usei o windows 11 com a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
+1) Ter o Java **versão 17** ou superior instalado, no exemplo usei o windows 11 com a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
 
 [download openJDK)](https://adoptium.net/)
 
@@ -22,7 +22,7 @@ Professor José de Assis
 
 ![xampp start](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp1.png)
 
-2) No navegador de internet digite: **localhost/dashboard** e selecione no menu **phpMyAdmin** conforme indicado na imagem.
+2) No navegador de internet digite: **localhost/dashboard** e selecione no menu: **phpMyAdmin** conforme indicado na imagem.
 
 ![phpmyadmin](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp2.png)
 
@@ -42,24 +42,19 @@ Professor José de Assis
 
 ![app](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro2.png)
 
-3) Se tudo estiver OK (Passo 1), você pode iniciar gerando um documento PDF (Passo 2) ou pesquisar um aluno pelo RA ou Nome (Passo 3), neste caso o aplicativo libera os botões e recursos de acordo com o resultado da pesquisa, por exemplo se não tiver um aluno cadastrado ele libera os botões para carregar foto e adicionar e se existir um aluno cadastrado ele traz todas as informações e liberar os botões para editar e excluir.
+3) Se tudo estiver OK (Passo 1), você pode iniciar gerando uma listagem dos alunos cadastrados (Passo 2) ou pesquisar um aluno pelo RA ou Nome (Passo 3), neste caso o aplicativo libera os botões e recursos de acordo com o resultado da pesquisa, por exemplo se não tiver um aluno cadastrado ele libera os botões para carregar foto e adicionar e se existir um aluno cadastrado ele traz todas as informações e liberar os botões para editar e excluir.
 
 ![aplicativo](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro3.png) 
 
- 
-
-
-
-
-
-
-
-
+## Tutorial passo a passo para desenvolver este projeto do "zero"
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz6tSoH51QAEzpo1VsXgvIv)
+### Bibliotecas
+[mysql](https://dev.mysql.com/downloads/connector/j/)
 
-
-### Slides
+[itextpdf](https://github.com/itext/itextpdf)
+### Slide JDBC
 [JDBC](https://professorjosedeassis.github.io/infox/)
+
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
