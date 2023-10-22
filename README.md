@@ -1,17 +1,21 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/carometro)
 # Java MySQL - Projeto Carômetro
 Carômetro é um repositório de informações de pessoas com uma foto associada. Neste exemplo um carômetro de alunos, porém você pode reutilizar este projeto e criar um repositório de imagens de uma equipe, candidatos, jogadores de futebol etc.
-Este projeto usa a linguagem Java e o banco de dados MySQL. 
-Tutorial passo a passo.
+## Autor
+Professor José de Assis
+### Conteúdo do repositório:
+- Versão para download e uso em computadores (Windows, Linux ou MAC)
+- Documentação
+- Tutorial passo a passo para o desenvolvimento deste projeto
 
-![bar progress](https://github.com/professorjosedeassis/node/blob/main/img/bar.png)
 
-Em produção. Acompanhe as atualizações no canal do YouTube:
+
+
+
 
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz6tSoH51QAEzpo1VsXgvIv)
 
-## Autor
-Professor José de Assis
+
 ### Slides
 [JDBC](https://professorjosedeassis.github.io/infox/)
 ## Como apoiar os tutoriais e projetos?
