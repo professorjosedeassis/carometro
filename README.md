@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/carometro)
 # ☕ Java MySQL - Projeto Carômetro
-Carômetro é um repositório de informações de pessoas com uma foto associada. Neste exemplo um carômetro de alunos, porém você pode reutilizar este projeto e criar um repositório de imagens de uma equipe, candidatos, jogadores de futebol etc.
+Carômetro é um aplicativo para desktop (Windows, Linux ou MAC) de repositório de informações de pessoas com uma foto associada. Neste exemplo um carômetro de alunos, porém você pode reutilizar este projeto e criar um repositório de imagens de uma equipe, candidatos, jogadores de futebol etc.
 
 ![carometro](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro1.png)
 ## Autor
