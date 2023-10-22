@@ -1,12 +1,37 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/carometro)
-# Java MySQL - Projeto Carômetro
+# ☕ Java MySQL - Projeto Carômetro
 Carômetro é um repositório de informações de pessoas com uma foto associada. Neste exemplo um carômetro de alunos, porém você pode reutilizar este projeto e criar um repositório de imagens de uma equipe, candidatos, jogadores de futebol etc.
+
+![carometro](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro1.png)
 ## Autor
 Professor José de Assis
-### Conteúdo do repositório:
-- Versão para download e uso em computadores (Windows, Linux ou MAC)
-- Documentação
-- Tutorial passo a passo para o desenvolvimento deste projeto
+## Instruções para instalação e uso do aplicativo
+### Pré requisitos
+1) Ter o java **versão 17** ou superior instalado, no exemplo usei o windows 11 com a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
+
+[download openJDK)](https://adoptium.net/)
+
+![openJDK](https://github.com/professorjosedeassis/carometro/blob/main/assets/openjdk.png)
+
+2) Ter um banco de dados local baseado no **MySQL 8** ou MariaDB compatível, no exemplo usei o XAMPP que pode ser obtido no link indicado.
+
+[download xampp](https://www.apachefriends.org/)
+
+3) Iniciar os serviços Apache e MySQL no XAMPP, conforme indicado na imagem.
+
+![xampp start](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp1.png)
+
+4) No navegador de internet digite: **localhost/dashboard** e selecione o **phpMyAdmin** conforme indicado na imagem.
+
+![phpmyadmin](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp2.png)
+
+5) .
+6) .
+7) 
+
+ 
+
+
 
 
 
