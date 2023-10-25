@@ -7,7 +7,7 @@ Carômetro é um aplicativo para desktop (Windows, Linux ou MAC) de repositório
 Professor José de Assis
 ## Instruções para instalação e uso do aplicativo
 ### Pré requisitos
-1) Ter o Java **versão 17** ou superior instalado, no exemplo usei o windows 11 com a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
+1) Ter o Java **versão 17** ou superior instalado. Testado com a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
 
 [download openJDK)](https://adoptium.net/)
 
