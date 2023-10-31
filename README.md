@@ -32,7 +32,9 @@ Professor José de Assis
 
 4) Na aba SQL, copie e cole o código abaixo e execute. (Passos 1,2 e 3 indicados na imagem)
 
-`CREATE TABLE alunos (ra int PRIMARY KEY AUTO_INCREMENT,nome varchar(30) NOT NULL,foto LONGBLOB NOT NULL);`
+~~~sql
+CREATE TABLE alunos (ra int PRIMARY KEY AUTO_INCREMENT,nome varchar(30) NOT NULL,foto LONGBLOB NOT NULL);
+~~~
 
 ![alunos](https://github.com/professorjosedeassis/carometro/blob/main/assets/xampp4.png)
 
