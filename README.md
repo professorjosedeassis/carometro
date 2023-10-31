@@ -58,7 +58,7 @@ Tecnologias que são abordadas neste tutorial:
 - Uso da biblioteca iTextpdf para gerar listagem de alunos com foto
 
 ### Iniciar tutorial:
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz6tSoH51QAEzpo1VsXgvIv)
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz6tSoH51QAEzpo1VsXgvIv)
 ### Bibliotecas usadas neste projeto
 [mysql](https://dev.mysql.com/downloads/connector/j/)
 
