@@ -1,6 +1,10 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/carometro)
-# Projeto Carômetro
-Carômetro é um aplicativo para desktop (Windows, Linux ou MAC) de repositório de informações de pessoas com uma foto associada. Neste exemplo um carômetro de alunos, porém você pode reutilizar este projeto e criar um repositório de imagens de uma equipe, candidatos, jogadores de futebol etc.
+# JavaGRAM
+Neste projeto prático, você vai criar um Carômetro Digital, o famoso mural de carinhas da turma, só que versão tech, com interface gráfica em Java, banco de dados MySQL e direito até a upload de fotos dos alunos.
+
+É quase um Instagram raiz da sala de aula: sem stories, sem filtro... só código puro e funcional!
+
+😃 Porque foto 3x4 é coisa do passado!
 
 ![carometro](https://github.com/professorjosedeassis/carometro/blob/main/assets/caraometro1.png)
 ## Autor
