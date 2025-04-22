@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/carometro)
-# JavaGRAM
+# JavaGRAM - Projeto Carômetro
 Neste projeto prático, você vai criar um Carômetro Digital, o famoso mural de carinhas da turma, só que versão tech, com interface gráfica em Java, banco de dados MySQL e direito até a upload de fotos dos alunos.
 
 É quase um Instagram raiz da sala de aula: sem stories, sem filtro... só código puro e funcional!
